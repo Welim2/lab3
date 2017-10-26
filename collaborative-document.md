@@ -25,6 +25,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Dan Simpson
 - Christopher Geon Young Park
 - Diana Ivanova
+- Wei Yi Lim
 
 (add your name as a new bullet-point to the above list)
 
@@ -311,6 +312,14 @@ In most of the East Midland constituencies Labour gained against Conservatives. 
 ### Weiyi
 
   54          Bexhill & Battle
+
+![Wei Yi's graph of South East constituencies](WeiYi-plot1.svg)
+
+This plot shows, for all constituencies in the South East region, the relationship between the change in voters turnout (at the 2015 and 2017 General Elections) and the percentage of people aged 18-24 according to the 2011 census.
+
+91.67% of South East constituencies show gains in voters turnout among the population aged 18-24 in 2017 General Election compared to 2015 General Election. One constituency even registered an increase of more than 15% of voters turnout among the youth relative to the 2015 General Election. Only 7 constituencies show that the younger generation has less interest in involving themselves into politics. 
+
+The Bexhill & Battle constituency, highlighted in red in the plot, appears to be fairly typical as far as these two variables are concerned. Therefore, there is huge evidence that among the South East region, the younger generation is more concerned about their future and getting more involved in the country's politics by voting for their constituency MP (Member of Parliament).
 
 ### Zsigmond
 
